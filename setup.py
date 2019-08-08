@@ -4,6 +4,7 @@ setup(
     version='1.0',
     author='魔扣少儿编程',
     author_email='',
+    url ='https://github.com/Augn/mc',
     data_files=['face_maker/backdrop_01.png',
                 'face_maker/BGM.mp3',
                 'face_maker/eye_1.png',
@@ -32,4 +33,5 @@ setup(
                 'face_maker/eye_24.png',
                 ],
     packages=['face_maker'],
+    zip_safe=False,
     )
