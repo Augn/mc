@@ -1,7 +1,7 @@
 from setuptools import setup
 setup(
-    name='mcpython',
-    version='1.0',
+    name='face_maker',
+    version='0.0.1',
     author='魔扣少儿编程',
     author_email='',
     url ='https://github.com/Augn/mc',
