@@ -4,3 +4,5 @@
 
 /dist
 /build/lib/face_maker
+/build/lib/mcpython
+/mcpythontest.egg-info
